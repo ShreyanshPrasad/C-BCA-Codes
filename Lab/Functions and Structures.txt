@@ -1,0 +1,42 @@
+PART A – FUNCTIONS
+
+Q1. Sum and Average using Function
+Problem:
+Write a C program to calculate the sum and average of two numbers using a user-defined function.
+
+
+Q2. Factorial using Function
+Problem:
+Write a function to calculate factorial of a number.
+
+
+Q3. Factorial using Recursive Function
+Problem:
+Write a recursive function to calculate factorial of a number.
+
+
+Q4. Passing Array to Function
+Problem:
+Write a function to display array elements.
+
+
+
+PART B – STRUCTURES
+
+Q5. Store and Display Student Details
+Problem:
+Create a structure student with roll, name, and marks. Read and display details of one student.
+
+Q6. Array of Structures
+Problem:
+Store details of 3 students using an array of structures and display them.
+
+
+Q7. Passing Structure to Function
+Problem:
+Pass a structure to a function and display its contents.
+
+
+Q8. Find Highest Marks using Structure
+Problem:
+Read marks of 3 students using structure and display the highest marks.

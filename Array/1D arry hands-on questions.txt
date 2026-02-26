@@ -1,0 +1,49 @@
+Array Hands-On Practice Questions
+
+1. Basic Array Input and Output
+Write a C program to:
+Declare an integer array of size 10
+Accept elements from the user
+Display all elements in reverse order
+
+2. Sum and Average of Array Elements
+Write a program to:
+Read n elements into an array
+Calculate and display the sum and average of all elements
+
+3. Find Largest and Smallest Element
+Write a program to:
+Read 5 integers into an array
+Find and display the maximum and minimum values
+
+4. Count Even and Odd Numbers
+Write a C program that:
+Accepts 10 integers into an array
+Counts how many elements are even and how many are odd
+
+5. Search an Element in an Array
+Write a program to:
+Read 8 integers into an array
+Ask the user for a value to search
+Display whether the element is found or not
+
+6. Copy One Array into Another
+Write a C program to:
+Read 5 elements into array A
+Copy all elements of A into array B
+Display both arrays
+
+7. Count Positive, Negative and Zero Elements
+Write a program to:
+Accept 10 integers
+Count the number of positive, negative, and zero values
+
+8. Display Array Elements at Even Index Positions
+Write a C program to:
+Read 6 integers into an array
+Display elements stored at even index positions
+
+9. Sum of Even-Indexed Elements
+Write a program to:
+Read 7 elements into an array
+Find the sum of elements at even indices
